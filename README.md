@@ -18,6 +18,6 @@ A **machine learning project** that aims to predict the price of Bitcoin using v
 ## ⚙ Technologies
 
 - **Language**: Python  
-- **Libraries**: TensorFlow, Keras, pandas, numpy, matplotlib, statsmodels, scikit-learn  
+- **Libraries**: TensorFlow, sklearn, pandas, numpy, matplotlib  
 - **Models**: LSTM, ARIMA  
 - **Dataset**: Bitcoin price data (from 01-01-2021 to 01-03-2022)  
